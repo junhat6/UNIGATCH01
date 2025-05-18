@@ -2,11 +2,11 @@
 
 USJで出会いを探すためのマッチングアプリ「UNIGATCH」のiOSアプリケーションです。
 神戸電子専門学校でのDigitalWorksでの作品です。「プレゼン賞」を頂きました。
+https://youtu.be/e1OFTqIwheQ?si=Y2MLaqhXb3vuDj2K (発表動画)
 
 ## 概要
 
 UNIGATCHは、ユニバーサル・スタジオ・ジャパン（USJ）のエリアをベースにしたマッチングアプリです。同じエリアや同じ趣味を持つユーザー同士で交流することができます。
-https://youtu.be/e1OFTqIwheQ?si=Y2MLaqhXb3vuDj2K
 
 ## 機能
 
